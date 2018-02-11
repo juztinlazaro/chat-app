@@ -1,0 +1,11 @@
+{
+  "test": {
+    "PORT": 5050
+  },
+  "development": {
+    "PORT": 4040
+  },
+  "production": {
+    "PORT": "process.env.PORT"
+  }
+}
