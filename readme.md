@@ -1,3 +1,8 @@
+#### Dependencies
+
+1. express.js
+2. socket.io
+
 #### Public
 
 all about:
