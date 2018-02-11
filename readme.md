@@ -14,3 +14,10 @@ all about:
 2. node
 3. express
 4. backend logic set up
+
+#### Deployment set up
+
+1. npm install -g heroku-cli
+2. heroku create
+3. git push heroku master
+4. https://thawing-anchorage-99809.herokuapp.com/ deployed to Heroku
